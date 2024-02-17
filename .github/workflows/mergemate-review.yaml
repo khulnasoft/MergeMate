@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Merge Mate action step
         id: mergemate
-        uses: KhulnaSoft/mergemate@main
+        uses: khulnasoft/mergemate@main
         env:
           OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           OPENAI_ORG: ${{ secrets.OPENAI_ORG }} # optional
