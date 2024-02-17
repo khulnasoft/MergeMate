@@ -1,0 +1,5 @@
+venv/
+mergemate/settings/.secrets.toml
+pics/
+mergemate.egg-info/
+build/

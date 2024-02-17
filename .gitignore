@@ -1,0 +1,9 @@
+.idea/
+venv/
+mergemate/settings/.secrets.toml
+__pycache__
+dist/
+*.egg-info/
+build/
+review.md
+.DS_Store
